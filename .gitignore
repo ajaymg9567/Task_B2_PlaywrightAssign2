@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+playwright/.auth/
+storage_state.json
+*.log
